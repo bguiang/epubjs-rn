@@ -1,7 +1,7 @@
 {
-  "name": "@ottofeller/epubjs-rn",
+  "name": "@bguiang/epubjs-rn",
   "version": "0.2.37",
-  "repository": "https://github.com/ottofeller/epubjs-rn",
+  "repository": "https://github.com/bguiang/epubjs-rn",
   "main": "./components/index.js",
   "private": false,
   "scripts": {
