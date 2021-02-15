@@ -1,6 +1,6 @@
 {
   "name": "@bguiang/epubjs-rn",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bguiang/epubjs-rn.git"
@@ -30,7 +30,6 @@
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-static-server": "0.5.0",
-    "react-native-webview": "9.4.0",
     "react-native-zip-archive": "5.0.2",
     "rn-fetch-blob": "0.12.0",
     "stream": "0.0.2",
@@ -46,13 +45,14 @@
     "@babel/core": "7.9.6",
     "@babel/preset-env": "7.9.6",
     "@babel/runtime": "7.9.6",
+    "babel-jest": "24.8.0",
     "babel-plugin-module-resolver": "4.0.0",
     "babel-plugin-static-fs": "3.0.0",
     "babel-plugin-transform-inline-environment-variables": "0.4.3",
     "gulp": "4.0.2",
-    "metro-react-native-babel-preset": "0.59.0",
-    "babel-jest": "24.8.0",
     "jest": "24.8.0",
+    "metro-react-native-babel-preset": "0.59.0",
+    "react-native-webview": "^11.2.3",
     "react-test-renderer": "16.11.0"
   },
   "files": [

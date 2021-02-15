@@ -6,8 +6,9 @@ import {
   ActivityIndicator,
   Dimensions,
   AppState,
-  WebView
+  //WebView
 } from "react-native";
+import { WebView } from 'react-native-webview';
 
 import Orientation from "@lightbase/react-native-orientation";
 
